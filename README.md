@@ -27,3 +27,11 @@ Supplies
 ========
 - Whiteboard
 - Guaranteed Connectivity
+
+
+OutReach:
+=========
+
+- http://www.meetup.com/SociallyInnovativeDMV/
+- http://www.meetup.com/Girl-Develop-It-DC/
+- http://www.meetup.com/Women-Who-Code-DC (Kaylyn Gibilterra)
